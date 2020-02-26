@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.groeneparagraaf {
+    color: green;
+}
+
+.blauw {
+    color: blue;
+}
+
+.titel {
+    font-style: italic;
+    font-size: 32px;
+    font-weight: bold;
+}
